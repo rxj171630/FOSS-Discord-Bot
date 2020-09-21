@@ -8,7 +8,7 @@ This bot runs using the Discord.js library. As a result, it requries node.js as 
 ## Token
 In order to use the bot, you must first obtain a token from: https://discord.com/developers/applications
 You must create a new app (can be named anything), then in the bot tab on the left sidebar, create a bot.
-The token can be found on the bot page. **(ANYONE WITH THIS TOKEN WILL HAVE ACCESS TO YOUR BOT. TREAT IT LIKE A PASSWORD. DO NOT SHARE THIS TOKEN WITH ANYONE).**
+The token can be found on the bot page. Paste this token into the first line of the main.js file, replacing the placeholder string. **(ANYONE WITH THIS TOKEN WILL HAVE ACCESS TO YOUR BOT. TREAT IT LIKE A PASSWORD. DO NOT SHARE THIS TOKEN WITH ANYONE).**
 
 ## Inviting the bot to your server
 Before the bot can be used on your server, it must first be invited. Before creating an invite link, you must obtain the client id for your bot. This can be found in your discord application's general information page:https://discord.com/developers/applications. After you copy the client id, you may use this webpage to set up permissions for the bot and to create an invite link: https://discordapi.com/permissions.html
