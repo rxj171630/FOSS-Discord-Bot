@@ -1,5 +1,5 @@
 # FOSS-Discord-Bot
-Repository for open-source discord bot.
+Repository for open-source discord bot using Discord.JS v12.
 
 ## Dependencies
 This bot is designed for Discord. The latest version of the discord client can be download from: https://discord.com/download
